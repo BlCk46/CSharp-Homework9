@@ -1,0 +1,14 @@
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\bin\Debug\net7.0\Home9.exe
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\bin\Debug\net7.0\Home9.deps.json
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\bin\Debug\net7.0\Home9.runtimeconfig.json
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\bin\Debug\net7.0\Home9.dll
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\bin\Debug\net7.0\Home9.pdb
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\obj\Debug\net7.0\Home9.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\obj\Debug\net7.0\Home9.AssemblyInfoInputs.cache
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\obj\Debug\net7.0\Home9.AssemblyInfo.cs
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\obj\Debug\net7.0\Home9.csproj.CoreCompileInputs.cache
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\obj\Debug\net7.0\Home9.dll
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\obj\Debug\net7.0\refint\Home9.dll
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\obj\Debug\net7.0\Home9.pdb
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\obj\Debug\net7.0\Home9.genruntimeconfig.cache
+C:\EDUCATION\C#\Seminars\Homeworks\Home9\obj\Debug\net7.0\ref\Home9.dll
